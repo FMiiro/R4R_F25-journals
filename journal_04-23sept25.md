@@ -8,13 +8,13 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 24th, 11pm**
 
 ### Rose
-
+This was a very interesting and eye opening. I now know that I need to refine my instruction to get a better output. 
 
 ### Thorn
-
+Nothing
 
 ### Bud
-
+I am going to use Claude. I sometimes get errors that I cannot explain in my SAS code and when I turn to ChatGPT there are times when I cannot a diagnosis of the error or I get a wrong alternate code. 
 
 ---
 
@@ -29,4 +29,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 2nd, 11am**
